@@ -1,0 +1,12 @@
+2025-01-16 19:56:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\espladmin\eclipse-workspace\Opencart\grouping.xml"
+2025-01-16 19:56:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\espladmin\eclipse-workspace\Opencart\grouping.xml
+
+2025-01-16 19:58:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\espladmin\eclipse-workspace\Opencart\grouping.xml"
+2025-01-16 19:58:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\espladmin\eclipse-workspace\Opencart\grouping.xml
+
+2025-01-16 20:00:53 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\espladmin\eclipse-workspace\Opencart\grouping.xml"
+2025-01-16 20:00:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\espladmin\eclipse-workspace\Opencart\grouping.xml
+
